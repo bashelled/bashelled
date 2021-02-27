@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Hey there, pal
-Welcome to my profile. I mostly work in Shell, but I am experienced in Batchfile or Makefile. (I only use Ruby to make [Brewfiles, formulae, taps, etc] for [Homebrew](https://brew.sh).
+Welcome to my profile. I mostly work in Shell, but I am experienced in Batchfile or Makefile. (I only use Ruby to make [Brewfiles, formulae, taps, etc] for [Homebrew](https://brew.sh)).
 Here are some stats:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashelled)](https://github.com/anuraghazra/github-readme-stats)
