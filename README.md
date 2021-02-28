@@ -26,7 +26,8 @@ Here are some stats:
 </a>
 
 #### Info
-[![OS](https://img.shields.io/badge/OS-Bedrock%20with%20Arch%20hijacked-blue)](https://bedrocklinux.org)
+[![OS](https://img.shields.io/badge/OS-Arch-blue)](https://archlinux.org)
+[![OS](https://img.shields.io/badge/OS-K1SS-pink)](https://kiss.armaanb.net)
 [![OS](https://img.shields.io/badge/OS-chromeOS-yellow)](https://www.google.com/intl/en_uk/chromebook)
 [![Editor](https://img.shields.io/badge/Editor-Atom-green)](https://atom.io)
 [![DE](https://img.shields.io/badge/DE-GNOME-blue)](https://gnome.org)
