@@ -21,7 +21,7 @@ Here are some stats:
 <a href="https://github.com/bashelled/yazt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bashelled&repo=yazt" />
 </a>
-<a href="https://github.com/bashelled/yazt">
+<a href="https://github.com/bashelled/shini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bashelled&repo=shini" />
 </a>
 
