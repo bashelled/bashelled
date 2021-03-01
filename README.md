@@ -36,4 +36,4 @@ Here are some stats:
 [![Framework](https://img.shields.io/badge/Framework-Oh%20My%20Zsh-lightblue)](https://ohmyz.sh)
 [![Framework](https://img.shields.io/badge/Framework-Yazt-orange)](https://github.com/bashelled/yazt)
 [![zTheme](https://img.shields.io/badge/zsh%20Theme-agnoster-green)](https://github.com/agnoster/agnoster-zsh-theme)
-[![Projects](https://img.shields.io/badge/Working%20on-external%20project-green)](https://github.com/agnoster/agnoster-zsh-theme)
+[![Projects](https://img.shields.io/badge/Working%20on-external%20project-green)](https://github.com/ghost)
