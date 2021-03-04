@@ -26,10 +26,7 @@ Here are some stats:
 </a>
 
 #### Info
-[![OS](https://img.shields.io/badge/OS-Arch-blue)](https://archlinux.org)
-[![OS](https://img.shields.io/badge/OS-Fedora-lightblue)](https://getfedora.org)
-[![OS](https://img.shields.io/badge/OS-Gentoo-white)](https://gentoo.org)
-[![OS](https://img.shields.io/badge/OS-Linux%20Lite-orange)](https://linuxliteos.com)
+[![OS](https://img.shields.io/badge/OS-Cloudready-blue)](https://neverware.com)
 [![OS](https://img.shields.io/badge/OS-chromeOS-yellow)](https://www.google.com/intl/en_uk/chromebook)
 [![Editor](https://img.shields.io/badge/Editor-Atom-green)](https://atom.io)
 [![DE](https://img.shields.io/badge/DE-GNOME-blue)](https://gnome.org)
