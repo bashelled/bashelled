@@ -26,8 +26,7 @@ Here are some stats:
 </a>
 
 #### Info
-[![OS](https://img.shields.io/badge/OS-Cloudready-blue)](https://neverware.com)
-[![OS](https://img.shields.io/badge/OS-chromeOS-yellow)](https://www.google.com/intl/en_uk/chromebook)
+[![OS](https://img.shields.io/badge/OS-Solus-blue)](https://neverware.com)
 [![Editor](https://img.shields.io/badge/Editor-Atom-green)](https://atom.io)
 [![DE](https://img.shields.io/badge/DE-GNOME-blue)](https://gnome.org)
 [![Editor](https://img.shields.io/badge/Editor-Nano-lightgreen)](https://nano-editor.org)
