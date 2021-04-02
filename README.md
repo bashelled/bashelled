@@ -26,12 +26,11 @@ Here are some stats:
 </a>
 
 #### Info
-[![OS](https://img.shields.io/badge/OS-Solus-blue)](https://neverware.com)
+[![OS](https://img.shields.io/badge/OS-Solus-blue)](https://getsol.us)
 [![Editor](https://img.shields.io/badge/Editor-Atom-green)](https://atom.io)
-[![DE](https://img.shields.io/badge/DE-GNOME-blue)](https://gnome.org)
+[![DE](https://img.shields.io/badge/DE-Budgie-blue)](https://github.com/solus-project/budgie-desktop)
 [![Editor](https://img.shields.io/badge/Editor-Nano-lightgreen)](https://nano-editor.org)
-[![Shell](https://img.shields.io/badge/Shell-ZSH-green)](https://atom.io)
+[![Shell](https://img.shields.io/badge/Shell-ZSH-green)](https://zsh.org)
 [![Framework](https://img.shields.io/badge/Framework-Oh%20My%20Zsh-lightblue)](https://ohmyz.sh)
 [![Framework](https://img.shields.io/badge/Framework-Yazt-orange)](https://github.com/bashelled/yazt)
-[![zTheme](https://img.shields.io/badge/zsh%20Theme-agnoster-green)](https://github.com/agnoster/agnoster-zsh-theme)
 [![Projects](https://img.shields.io/badge/Working%20on-external%20project-green)](https://github.com/ghost)
