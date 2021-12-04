@@ -26,7 +26,7 @@ Here are some stats:
 </a>
 
 #### Info
-[![OS](https://img.shields.io/badge/OS-Solus-blue)](https://getsol.us)
+[![OS](https://img.shields.io/badge/OS-Arch-blue)](https://archlinux.org)
 [![Editor](https://img.shields.io/badge/Editor-Atom-green)](https://atom.io)
 [![DE](https://img.shields.io/badge/DE-Budgie-blue)](https://github.com/solus-project/budgie-desktop)
 [![Editor](https://img.shields.io/badge/Editor-Nano-lightgreen)](https://nano-editor.org)
